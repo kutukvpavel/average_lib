@@ -11,7 +11,7 @@
 
 #pragma once
 
-#include "user.h"
+#include "../user.h"
 
 class average
 {
